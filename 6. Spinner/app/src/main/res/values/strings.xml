@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string name="valor">Dame un valor</string>
+    <string name="button">Calcular</string>
+    <string name="tv_mensaje">Resultado</string>
+
+</resources>

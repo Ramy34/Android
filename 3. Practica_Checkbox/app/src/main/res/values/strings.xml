@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica_Checkbox</string>
+    <string name="valores">Dame un valor</string>
+    <string name="ck_sumar">Sumar</string>
+    <string name="ck_restar">Restar</string>
+    <string name="button">Calcular</string>
+    <string name="resultado">Resultado</string>
+    <string name="textview">TextView</string>
+</resources>

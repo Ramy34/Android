@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="txt_nombre">Ingresa un nombre</string>
+    <string name="txt_direccion">Ingresa una dirección</string>
+    <string name="button1">Guardar</string>
+    <string name="button2">Buscar</string>
+
+</resources>

@@ -19,33 +19,34 @@ Aplicaciones:
 	Objetivo: Aprender el concepto de listview y un ejemplo de como utilizarlo.  
 **08) ImageButton**  
 	Objetivo: Aprender el concepto de imagebutton y un ejemplo de como utilizarlo.
-**09) EditText**
+**09) EditText**  
 	Objetivo: Aprender el concepto de edittext junto a sus diferentes tipos y un ejemplo de como utilizarlo.  
 **10) Intent**  
 	Objetivo: Conocer lo que es el intent para pasar de una activity a otra.  
 **11) Parámetros**  
 	Objetivo: Aprender a pasar datos de una activity a otra.  
-**12) WebView
+**12) WebView**
 	Objetivo: Aprender el concepto del webview y un ejemplo de como utilizarlo.  
 **13) SharedPreferences**  
 	Objetivo: Conocer el las aplicaciones guardan sus datos.  
 **14) Agenda**  
 	Objetivo: Con la clase SharedPreferences se realiza una agenda.  
 **15) Bitácora**  
-	Objetivo:
-**16)
-	Objetivo:
-**17)
-	Objetivo:
-**18)
-	Objetivo:
-**19)
-	Objetivo:
-**20)
-	Objetivo:
-**21)
-	Objetivo:
-**22)
-	Objetivo:
-**23)
-	Objetivo:
+	Objetivo: Utilizar otra forma de almacenar datos en memoria secundaria para crear una bitácora.  
+**16) SD**  
+	Objetivo: Aprender a como guardar datos en la memoria SD.  
+**17) Bases de Datos**  
+	Objetivo: Aprender a conectar una aplicación a una base de datos.  
+**18) LinearLayout**  
+	Objetivo: Aprender a utilizar los linearlayout.  
+**19) TableLayout**  
+	Objetivo: Aprender a utilizar los tablelayout.  
+**20) FrameLayout**  
+	Objetivo: Aprender a utilizar los framelayout.  
+**21) ScrollView**  
+	Objetivo: Aprender a utilizar el scrollview junto al cambio de color de la interfaz e ícono.  
+**22) Reproducción de audio**  
+	Objetivo: Aprender a colocar audio en los botones.  
+**23) Reproductor de música**  
+	Objetivo: Realizar un reproductor de música con la clase MediaPlayer.  
+  

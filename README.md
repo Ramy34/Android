@@ -3,49 +3,49 @@ Repositorio con aplicaiones básicas para android.
 
 Aplicaciones:
 
-01) Mi primera aplicaión  
+**01) Mi primera aplicaión**  
 	Objetivo: Comenzar a entender el funcionamiento de Android Studio.  
-02) Estatus  
+**02) Estatus**  
 	Objetivo: Pequeña práctica donde se ingresan 3 calificaciones y se muestra el promedio de ellas.  
-03) Práctica checkbox  
+**03) Práctica checkbox**  
 	Objetivo: Usar y entender los checkbox  
-04) 
+**04) RadioButton**  
+	Objetivo: Aprender lo que es un radiobutton y su implementación.  
+**05) Práctica RadioButton**  
+	Objetivo: Utilizando los radiobutton se hace una calculadora.  
+**06) Spinner**  
+	Objetivo: Aprender lo que es y como personalizar el spinner junto a una sencilla aplicación.  
+**07)  Listview**  
 	Objetivo:
-05)
+**08)
 	Objetivo:
-06)
+**09)
 	Objetivo:
-07)
+**10)
 	Objetivo:
-08)
+**11)
 	Objetivo:
-09)
+**12)
 	Objetivo:
-10)
+**13)
 	Objetivo:
-11)
+**14)
 	Objetivo:
-12)
+**15)
 	Objetivo:
-13)
+**16)
 	Objetivo:
-14)
+**17)
 	Objetivo:
-15)
+**18)
 	Objetivo:
-16)
+**19)
 	Objetivo:
-17)
+**20)
 	Objetivo:
-18)
+**21)
 	Objetivo:
-19)
+**22)
 	Objetivo:
-20)
-	Objetivo:
-21)
-	Objetivo:
-22)
-	Objetivo:
-23)
+**23)
 	Objetivo:

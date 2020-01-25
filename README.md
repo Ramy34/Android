@@ -15,23 +15,23 @@ Aplicaciones:
 	Objetivo: Utilizando los radiobutton se hace una calculadora.  
 **06) Spinner**  
 	Objetivo: Aprender lo que es y como personalizar el spinner junto a una sencilla aplicación.  
-**07)  Listview**  
-	Objetivo:
-**08)
-	Objetivo:
-**09)
-	Objetivo:
-**10)
-	Objetivo:
-**11)
-	Objetivo:
-**12)
-	Objetivo:
-**13)
-	Objetivo:
-**14)
-	Objetivo:
-**15)
+**07) ListView**  
+	Objetivo: Aprender el concepto de listview y un ejemplo de como utilizarlo.  
+**08) ImageButton**  
+	Objetivo: Aprender el concepto de imagebutton y un ejemplo de como utilizarlo.
+**09) EditText**
+	Objetivo: Aprender el concepto de edittext junto a sus diferentes tipos y un ejemplo de como utilizarlo.  
+**10) Intent**  
+	Objetivo: Conocer lo que es el intent para pasar de una activity a otra.  
+**11) Parámetros**  
+	Objetivo: Aprender a pasar datos de una activity a otra.  
+**12) WebView
+	Objetivo: Aprender el concepto del webview y un ejemplo de como utilizarlo.  
+**13) SharedPreferences**  
+	Objetivo: Conocer el las aplicaciones guardan sus datos.  
+**14) Agenda**  
+	Objetivo: Con la clase SharedPreferences se realiza una agenda.  
+**15) Bitácora**  
 	Objetivo:
 **16)
 	Objetivo:

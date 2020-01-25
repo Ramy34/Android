@@ -3,13 +3,13 @@ Repositorio con aplicaiones básicas para android.
 
 Aplicaciones:
 
-01) Mi primera aplicaión
-	Objetivo: Comenzar a entender el funcionamiento de Android Studio
-02) Estatus
-	Objetivo:
-03)
-	Objetivo:
-04)
+01) Mi primera aplicaión  
+	Objetivo: Comenzar a entender el funcionamiento de Android Studio.  
+02) Estatus  
+	Objetivo: Pequeña práctica donde se ingresan 3 calificaciones y se muestra el promedio de ellas.  
+03) Práctica checkbox  
+	Objetivo: Usar y entender los checkbox  
+04) 
 	Objetivo:
 05)
 	Objetivo:

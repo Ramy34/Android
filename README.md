@@ -1,5 +1,6 @@
 # Android
-Repositorio con aplicaiones básicas para android.
+Repositorio del curso *Android desde cero* del canal de Youtube *La Geekipedia de Ernesto*.  
+Link del la lista de reproducción del curso: https://www.youtube.com/watch?v=tyx05coXixw&list=PLyvsggKtwbLX06iMtXnRGX5lyjiiMaT2y  
 
 ## Aplicaciones:
 
@@ -56,7 +57,7 @@ Repositorio con aplicaiones básicas para android.
 **26) ActionBar - Menú OverFlow**  
 	Objetivo: Conocer el menú overflow e implementarlo.  
 **27) ActionBar - ActionButton**  
-	Objetivo: Conocer los actionbutton e implementarlos.  	
+	Objetivo: Conocer los actionbutton e implementarlos.  
 **28) Camara**  
 	Objetivo: Aprender a utilizar la cámara del dispositivo.  
   

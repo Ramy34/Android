@@ -49,4 +49,6 @@ Aplicaciones:
 	Objetivo: Aprender a colocar audio en los botones.  
 **23) Reproductor de música**  
 	Objetivo: Realizar un reproductor de música con la clase MediaPlayer.  
-  
+**24) Grabadora**  
+	Objetivo: Realizar un grabadora con la clase MediaRecorder.  
+  	

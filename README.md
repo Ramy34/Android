@@ -18,14 +18,14 @@ Aplicaciones:
 **07) ListView**  
 	Objetivo: Aprender el concepto de listview y un ejemplo de como utilizarlo.  
 **08) ImageButton**  
-	Objetivo: Aprender el concepto de imagebutton y un ejemplo de como utilizarlo.
+	Objetivo: Aprender el concepto de imagebutton y un ejemplo de como utilizarlo.  
 **09) EditText**  
 	Objetivo: Aprender el concepto de edittext junto a sus diferentes tipos y un ejemplo de como utilizarlo.  
 **10) Intent**  
 	Objetivo: Conocer lo que es el intent para pasar de una activity a otra.  
 **11) Parámetros**  
 	Objetivo: Aprender a pasar datos de una activity a otra.  
-**12) WebView**
+**12) WebView**  
 	Objetivo: Aprender el concepto del webview y un ejemplo de como utilizarlo.  
 **13) SharedPreferences**  
 	Objetivo: Conocer el las aplicaciones guardan sus datos.  

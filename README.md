@@ -1,7 +1,7 @@
 # Android
 Repositorio con aplicaiones básicas para android.
 
-Aplicaciones:
+### Aplicaciones:
 
 **01) Mi primera aplicaión**  
 	Objetivo: Comenzar a entender el funcionamiento de Android Studio.  
@@ -51,4 +51,5 @@ Aplicaciones:
 	Objetivo: Realizar un reproductor de música con la clase MediaPlayer.  
 **24) Grabadora**  
 	Objetivo: Realizar un grabadora con la clase MediaRecorder.  
-  	
+**25) Multilenguaje**  
+	Objetivo: Realizar un grabadora con la clase MediaRecorder.  	

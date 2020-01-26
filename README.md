@@ -57,4 +57,6 @@ Repositorio con aplicaiones básicas para android.
 	Objetivo: Conocer el menú overflow e implementarlo.  
 **27) ActionBar - ActionButton**  
 	Objetivo: Conocer los actionbutton e implementarlos.  	
+**28) Camara**  
+	Objetivo: Aprender a utilizar la cámara del dispositivo.  
   

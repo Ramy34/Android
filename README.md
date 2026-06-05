@@ -4,12 +4,12 @@ Link del la lista de reproducción del curso: https://www.youtube.com/watch?v=ty
 
 ## Aplicaciones:
 
-**01) Mi primera aplicaión**  
-	Objetivo: Comenzar a entender el funcionamiento de Android Studio.  
+**01) Mi primera aplicación**  
+	Objetivo: Comenzar a entender el funcionamiento de Android Studio con una app que suma dos números.  
 **02) Estatus**  
-	Objetivo: Pequeña práctica donde se ingresan 3 calificaciones y se muestra el promedio de ellas.  
+	Objetivo: Práctica donde se ingresan 3 calificaciones (matemáticas, física y química) para calcular el promedio y estatus del alumno.  
 **03) Práctica checkbox**  
-	Objetivo: Usar y entender los checkbox  
+	Objetivo: Usar y entender los checkbox.  
 **04) RadioButton**  
 	Objetivo: Aprender lo que es un radiobutton y su implementación.  
 **05) Práctica RadioButton**  
@@ -29,15 +29,15 @@ Link del la lista de reproducción del curso: https://www.youtube.com/watch?v=ty
 **12) WebView**  
 	Objetivo: Aprender el concepto del webview y un ejemplo de como utilizarlo.  
 **13) SharedPreferences**  
-	Objetivo: Conocer el las aplicaciones guardan sus datos.  
+	Objetivo: Conocer cómo las aplicaciones guardan sus datos.  
 **14) Agenda**  
-	Objetivo: Con la clase SharedPreferences se realiza una agenda.  
+	Objetivo: Crear una agenda almacenando datos en persistencia local con SharedPreferences.  
 **15) Bitácora**  
-	Objetivo: Utilizar otra forma de almacenar datos en memoria secundaria para crear una bitácora.  
+	Objetivo: Almacenar información de texto en archivos de memoria secundaria (memoria interna) para crear una bitácora.  
 **16) SD**  
-	Objetivo: Aprender a como guardar datos en la memoria SD.  
+	Objetivo: Aprender a guardar y buscar archivos en la memoria externa SD.  
 **17) Bases de Datos**  
-	Objetivo: Aprender a conectar una aplicación a una base de datos.  
+	Objetivo: Conectar una app a una base de datos SQLite para realizar el registro, consulta, modificación y eliminación de productos.  
 **18) LinearLayout**  
 	Objetivo: Aprender a utilizar los linearlayout.  
 **19) TableLayout**  
@@ -45,15 +45,15 @@ Link del la lista de reproducción del curso: https://www.youtube.com/watch?v=ty
 **20) FrameLayout**  
 	Objetivo: Aprender a utilizar los framelayout.  
 **21) ScrollView**  
-	Objetivo: Aprender a utilizar el scrollview junto al cambio de color de la interfaz e ícono.  
+	Objetivo: Utilizar un ScrollView en una práctica interactiva de frutas e implementar el cambio de color de la interfaz y del ícono.  
 **22) Reproducción de audio**  
-	Objetivo: Aprender a colocar audio en los botones.  
+	Objetivo: Colocar efectos de audio en botones usando las clases SoundPool y MediaPlayer.  
 **23) Reproductor de música**  
 	Objetivo: Realizar un reproductor de música con la clase MediaPlayer.  
 **24) Grabadora**  
-	Objetivo: Realizar un grabadora con la clase MediaRecorder.  
+	Objetivo: Realizar una grabadora con la clase MediaRecorder.  
 **25) Multilenguaje**  
-	Objetivo: Realizar un grabadora con la clase MediaRecorder.  
+	Objetivo: Brindar soporte a múltiples idiomas dentro de la aplicación.  
 **26) ActionBar - Menú OverFlow**  
 	Objetivo: Conocer el menú overflow e implementarlo.  
 **27) ActionBar - ActionButton**  
